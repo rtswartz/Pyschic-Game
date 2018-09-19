@@ -43,7 +43,7 @@ function displayWinPsychic() {
     // x.setAttribute("src", ""); add image
     x.setAttribute("width", "304");
     x.setAttribute("height", "228");
-    x.setAttribute("alt", "Female Psychic");
+    x.setAttribute("alt", "");
     document.body.appendChild(x);
 }
 
@@ -52,7 +52,7 @@ function displayLosePsychic() {
     // x.setAttribute("src", ""); add image
     x.setAttribute("width", "304");
     x.setAttribute("height", "228");
-    x.setAttribute("alt", "Zoltar");
+    x.setAttribute("alt", "");
     document.body.appendChild(x);
 }
 
